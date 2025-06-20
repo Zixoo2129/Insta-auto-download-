@@ -4,4 +4,4 @@ opencv-python
 numpy
 python-telegram-bot
 Pillow
-moviepy
+
