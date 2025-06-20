@@ -5,7 +5,6 @@ import time
 from dotenv import load_dotenv # Keep this import even if not using .env file directly, as it doesn't harm
 import re
 import asyncio
-from moviepy.editor import VideoFileClip # For handling video/audio, if needed
 
 load_dotenv() # This will attempt to load .env, but won't cause issue if vars are from Render env
 
