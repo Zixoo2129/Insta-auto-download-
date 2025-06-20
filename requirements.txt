@@ -2,6 +2,5 @@ python-dotenv
 requests
 opencv-python
 numpy
-python-telegram-bot
+python-telegram-bot[job-queue]
 Pillow
-
